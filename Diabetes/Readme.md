@@ -2,8 +2,7 @@
 
 Dataset taken from Kaggle: [Early Stage Diabetes](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset) <br/>
 
-Models used: <br/>
-<br/>
+Models used: <br/> <br/>
 -K-Means Clustering <br/>
 -Decision Tree <br/>
 -KNN <br/>
@@ -11,8 +10,7 @@ Models used: <br/>
 -SVM <br/>
 -Naive Bayes <br/>
 
-Evaluation: <br/>
-<br/>
+Evaluation: <br/> <br/>
 -f1_score assuming all positive - .76 <br/>
 -dummy classifier respecting sample dist - .60 <br/>
 -dummy classifier picking at random - .51 <br/>
