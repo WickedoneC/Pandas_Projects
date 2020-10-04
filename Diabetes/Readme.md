@@ -21,6 +21,7 @@ Evaluation: <br/>
 -Log Reg - .94 <br/>
 -SVM - .98 <br/>
 -Naive Bayes - .94 <br/>
+<br/>
 
 GridSearch was used in combination with cross validation to find the optimal parameters and fit to the training set. 
 
