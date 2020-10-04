@@ -3,6 +3,7 @@
 Dataset taken from Kaggle: [Early Stage Diabetes](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset) <br/>
 
 Models used: <br/>
+<br/>
 -K-Means Clustering <br/>
 -Decision Tree <br/>
 -KNN <br/>
@@ -11,6 +12,7 @@ Models used: <br/>
 -Naive Bayes <br/>
 
 Evaluation: <br/>
+<br/>
 -f1_score assuming all positive - .76 <br/>
 -dummy classifier respecting sample dist - .60 <br/>
 -dummy classifier picking at random - .51 <br/>
@@ -33,4 +35,6 @@ Looking at feature importance with the Decistion Tree, it's clear that the prese
 
 The f1 score was used to evaluate the models. However, when looking at the problem, it's more important to maintain high recall in the model and minimize the false negative rate (people diagnosed as healthy when they actually have diabetes).
 
+
+## place images here
 
