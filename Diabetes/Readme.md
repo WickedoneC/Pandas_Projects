@@ -1,19 +1,19 @@
 # Diabetes Prediction Using Health Indicators
 
-Dataset taken from Kaggle: https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset
+Dataset taken from Kaggle: [Early Stage Diabetes](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset) <br/>
 
-Models used:
--K-Means Clustering
--Decision Tree
--KNN
--Log Reg
--SVM
--Naive Bayes
+Models used: <br/>
+-K-Means Clustering <br/>
+-Decision Tree <br/>
+-KNN <br/>
+-Log Reg <br/>
+-SVM <br/>
+-Naive Bayes <br/>
 
-Evaluation:
--f1_score assuming all positive - .76
--dummy classifier respecting sample dist - .60
--dummy classifier picking at random - .51
+Evaluation: <br/>
+-f1_score assuming all positive - .76 <br/>
+-dummy classifier respecting sample dist - .60 <br/>
+-dummy classifier picking at random - .51 <br/>
 
 -K-Means Clustering - .86 <br/>
 -Decision Tree - .94 <br/>
