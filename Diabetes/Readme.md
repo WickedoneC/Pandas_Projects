@@ -15,12 +15,12 @@ Evaluation:
 -dummy classifier respecting sample dist - .60
 -dummy classifier picking at random - .51
 
--K-Means Clustering - .86
--Decision Tree - .94
--KNN - .99
--Log Reg - .94
--SVM - .98
--Naive Bayes - .94
+-K-Means Clustering - .86 <br/>
+-Decision Tree - .94 <br/>
+-KNN - .99 <br/>
+-Log Reg - .94 <br/>
+-SVM - .98 <br/>
+-Naive Bayes - .94 <br/>
 
 GridSearch was used in combination with cross validation to find the optimal parameters and fit to the training set. 
 
